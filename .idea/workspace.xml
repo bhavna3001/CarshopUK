@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66fb070c-e39a-446d-a940-154c7c2f9fdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/BMWPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/BMWPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/JaguarPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/JaguarPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/MenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/MenuPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/pages/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/pages/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carshop/util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carshop/util/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/carshop/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/carshop/testcases/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carshop-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/BMWPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/BMWPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/JaguarPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/JaguarPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/MenuPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/MenuPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/SignIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/SignIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/pages/SignUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/pages/SignUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carshop/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carshop/util/TestUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.carshop.testcases.LoginPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.carshop.testcases.LoginPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.carshop.testcases.LoginPageTest/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.carshop.testcases.LoginPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.carshop.testcases.LoginPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.carshop.testcases.LoginPageTest/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/com.carshop.testcases.LoginPageTest/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.carshop.testcases.LoginPageTest/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/com.carshop.testcases.LoginPageTest/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/com.carshop.testcases.LoginPageTest/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/com.carshop.testcases.LoginPageTest/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/carshop/testcases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/carshop/testcases/LoginPageTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/carshop/testcases/LoginPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/JaguarPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/util/SendAttachmentInEmail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/base/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/MenuPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/SignUp.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/BMWPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/MenuPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/util/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/util/ScreenshotUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/SignIn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/BMWPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/JaguarPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/pages/SignUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/util/SendAttachmentEmail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/util/SendMailSSLWithAttachment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carshop/util/SendAttachmentInEmail.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/carshop/testcases/LoginPageTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CarshopUk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CarshopUk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carshop" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carshop" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carshop" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carshop" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingUK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SendMailSSLWithAttachment">
+    <configuration name="SendAttachmentInEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carshop.util.SendAttachmentInEmail" />
+      <module name="carshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carshop.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMailSSLWithAttachment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carshop.util.SendMailSSLWithAttachment" />
+      <module name="carshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carshop.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SendMailSSLWithAttachment" />
+        <item itemvalue="Application.SendAttachmentInEmail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28104576" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" visible="true" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.17397882" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.17397882" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1027" selection-start-line="1027" selection-end-line="1027" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/util/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/SignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/util/ScreenshotUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/JaguarPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/MenuPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/SignUp.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/pages/BMWPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/util/SendMailSSLWithAttachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carshop/util/SendAttachmentInEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/carshop/testcases/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
