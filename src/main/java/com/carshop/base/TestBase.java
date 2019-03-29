@@ -25,7 +25,7 @@ public class TestBase {
 		try {
 			
 			prop=new Properties();
-			String Sel_Path = "C:\\Users\\Anurag\\Documents\\GIT Carshop\\TestingUK\\src\\main\\java\\com\\carshop\\config\\config.properties";
+			String Sel_Path = "C:\\Users\\Bhavna PC\\Documents\\IdeaProjects\\CarshopUK\\src\\main\\java\\com\\carshop\\config\\config.properties";
 			if(System.getProperty(Sel_Path) == null){
 				System.out.println("Null!");
 			}
